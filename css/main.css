@@ -1,0 +1,17 @@
+div.jumbotron {
+    background-color: #ffcc2f;
+    color: #543729;
+}
+div.content {
+    background-color: #fff;
+}
+body {
+    background-color: #eee;
+}
+a {
+    color: #008ec4;
+}
+img {
+    margin-left: 45%;
+    margin-right: auto;
+}
